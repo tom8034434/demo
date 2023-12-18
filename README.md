@@ -1,7 +1,7 @@
 1.幣別 DB 維護功能
   i.查詢幣別資訊
   uri: /query?currencyCode=USD  (Get)
-  
+
   ii.新增幣別資訊
   uri: /add (Post)
   {
